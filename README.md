@@ -3,6 +3,19 @@
 A machine learning project for predicting employee salaries based on various features such as age, experience, job title, department, education level, and location.
 
 ---
+## 🧾 About the Dataset
+
+**Employee Salary Dataset**  
+This is a **synthetic dataset** generated for educational and machine learning purposes.  
+It is designed for **salary prediction** as a **regression problem** and includes **realistic employee attributes** with logically consistent relationships between features such as education level, job title, experience, and salary.
+
+### Dataset Summary:
+
+- 📌 **Rows:** 10,000  
+- 🎯 **Target Variable:** `Salary`  
+- 📚 **Use Cases:** Regression, EDA, feature engineering, model evaluation, fairness analysis
+
+---
 
 ## 🔍 What This Project Does
 
