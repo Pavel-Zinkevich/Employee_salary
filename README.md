@@ -56,3 +56,7 @@ The notebook includes:
 4. Explore the salary distribution plots with interactive filters
 
 ---
+
+<img width="1413" height="525" alt="newplot (3)" src="https://github.com/user-attachments/assets/8c863160-78e8-41fa-b164-f578de5ad136" />
+<img width="1413" height="525" alt="newplot (2)" src="https://github.com/user-attachments/assets/56962e6b-f8a2-4432-aec1-7f3bf6c3ccb8" />
+<img width="1413" height="525" alt="newplot (1)" src="https://github.com/user-attachments/assets/e115e1e2-7591-4818-bb10-ac83f74eb006" />
